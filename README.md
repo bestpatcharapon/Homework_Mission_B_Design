@@ -9,6 +9,14 @@
 
 ## IMAGE
 
-DESKTOP
-* LIGHTMODE  
+LIGHTMODE
+* DESKTOP  
   ![Desktop Lightmode](homework_B/image/Window_white.png)
+* IPAD  
+  ![Desktop Lightmode](homework_B/image/Ipad_white.png)
+
+DARKMODE
+* DESKTOP  
+  ![Desktop Lightmode](homework_B/image/Ipad_Dark.png)
+* IPAD  
+  ![Desktop Lightmode](homework_B/image/Ipad_Dark.png)
