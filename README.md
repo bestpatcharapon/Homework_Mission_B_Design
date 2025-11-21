@@ -16,12 +16,12 @@ LIGHTMODE
 * DESKTOP  
   ![Desktop Lightmode](homework_B/image/Window_white.png)
 * IPAD
-  ![IPAD Lightmode](homework_B/image/Window_white.png)
+  ![IPAD Lightmode](homework_B/image/Ipad_white.png)
   
 
 DARKMODE
 * DESKTOP  
-  ![Desktop darkmode](homework_B/image/Ipad_Dark.png)
+  ![Desktop darkmode](homework_B/image/Window_Dark.png)
 * IPAD  
   ![Desktop darkmode](homework_B/image/Ipad_Dark.png)
 
