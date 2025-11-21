@@ -15,14 +15,15 @@
 LIGHTMODE
 * DESKTOP  
   ![Desktop Lightmode](homework_B/image/Window_white.png)
-* IPAD  
-  ![Desktop Lightmode](homework_B/image/Ipad_white (2).png)
+* IPAD
+  ![IPAD Lightmode](homework_B/image/Window_white.png)
+  
 
 DARKMODE
 * DESKTOP  
-  ![Desktop Lightmode](homework_B/image/Ipad_Dark.png)
+  ![Desktop darkmode](homework_B/image/Ipad_Dark.png)
 * IPAD  
-  ![Desktop Lightmode](homework_B/image/Ipad_Dark (2).png)
+  ![Desktop darkmode](homework_B/image/Ipad_Dark.png)
 
 Short Nodes ใช้ class อะไรภูมิใจที่สุด เเละทำไม
 1. ใช้ Class grid    เพราะ จัดวางทั้งแถวและคอลัมน์ที่ซับซ้อนได้เป็นระเบียบ
